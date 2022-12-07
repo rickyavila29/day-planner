@@ -33,3 +33,4 @@ THEN the saved events persist
 ```
 
 The following animation demonstrates the application functionality:
+![Day-planner Example.](./Main/assets/imgs/dayplanner.png)
